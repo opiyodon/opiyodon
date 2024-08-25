@@ -17,7 +17,7 @@ opiyodon/opiyodon is a ✨ special ✨ repository because its `README.md` (this 
 <a href="https://github.com/opiyodon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="don artkins" height="30" width="40" /></a>
 <a href="https://wa.me/254714230692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="don artkins whatsapp" height="30" width="40" /></a>
 <a href="tel:+254714230692" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="don artkins phone" height="30" width="40" /></a>
-<a href="sms:+254714230692" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733748.png" alt="don artkins sms" height="30" width="40" /></a>
+<a href="sms:+254714230692" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/134/134718.png" alt="don artkins chat" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
