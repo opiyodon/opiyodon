@@ -40,5 +40,8 @@ opiyodon/opiyodon is a ✨ special ✨ repository because its `README.md` (this 
 
 ## GitHub Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=opiyodon&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=opiyodon&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=opiyodon&show_icons=true&locale=en&layout=compact" alt="opiyodon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opiyodon&show_icons=true&locale=en" alt="opiyodon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=opiyodon&" alt="opiyodon" /></p>
