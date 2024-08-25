@@ -12,9 +12,12 @@ opiyodon/opiyodon is a ✨ special ✨ repository because its `README.md` (this 
 ## Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="don artkins" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="don artkins" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/opiyo-don-20536a224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="don artkins" height="30" width="40" /></a>
+<a href="https://www.instagram.com/don_artkins/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="don artkins" height="30" width="40" /></a>
 <a href="https://github.com/opiyodon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="don artkins" height="30" width="40" /></a>
+<a href="https://wa.me/254714230692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="don artkins whatsapp" height="30" width="40" /></a>
+<a href="tel:+254714230692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/phone.svg" alt="don artkins phone" height="30" width="40" /></a>
+<a href="sms:+254714230692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/sms.svg" alt="don artkins sms" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
