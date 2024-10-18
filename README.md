@@ -2,8 +2,8 @@
 
 - 👀 I'm interested in Web Development and Software Development
 - 🌱 I'm currently learning at Kabarak University studying IT
-- 💞️ I'm looking to collaborate with Google, Microsoft, IBM and other great Tech Companies at any available opportunity. I am also a freelancer open to work
-- 📫 How to reach me - Whatsapp: 0714230692 Email: opiyodon9@gmail.com Website: https://opiyodon.vercel.app
+- 💞️ I'm looking to collaborate with Google, Microsoft, IBM.
+- 📫 How to reach me - Tel: 0714230692 Email: opiyodon9@gmail.com
 
 <!---
 opiyodon/opiyodon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
